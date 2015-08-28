@@ -193,7 +193,7 @@ paper.add(k)
 timeDelay=3
 sleep(timeDelay)
 paper.remove(k)
-l=Text('I dnt think 1 vote make any difference to the nation')
+l=Text('I dont think 1 vote can make any difference to the nation')
 l.moveTo(890,480)
 paper.add(l)
 timeDelay=3
@@ -253,7 +253,7 @@ paper.add(p)
 timeDelay=3
 sleep(timeDelay)
 paper.remove(p)
-o=Text('Nowonwards I too will go for vote to make my nation better')
+o=Text('Nowonwards I too will go for voting. Thanks.')
 o.moveTo(850,480)
 paper.add(o)
 timeDelay=3
