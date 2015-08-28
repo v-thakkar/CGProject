@@ -296,25 +296,3 @@ for i in range(1,5):
     stickman.rotate(-4)
     timeDelay=0.5
     sleep(timeDelay)
-
-
-
-
-
-
-
-
-
-
-   
-   
-
-
-
-#dialouge=Text('What is this?')
-#dialouge.move(250,400)
-#paper.add(dialouge)
-#paper.add(Image)
-#paper.refresh()
-
-
